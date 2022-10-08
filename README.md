@@ -78,21 +78,16 @@ Continuing to learn and hopefully have an opportunity to break into the world of
 
 <br/>  
 
+## Spotify - What I'm currently listening to
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=99mdzgkne1adcq1fthn4ldh7s&cover_image=true&theme=default&show_offline=false&bar_color=4bd246" /></div>  
 
 <br/>  
 
 <br/>
 
-## Spotify - What I'm currently listening to
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
 
-<br/>  
-
-  
-
-<br/>  
-
+<br/> 
 
 <br/>

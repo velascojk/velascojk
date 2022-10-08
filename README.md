@@ -84,10 +84,3 @@ Continuing to learn and hopefully have an opportunity to break into the world of
 <br/>  
 
 <br/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/> 
-
-<br/>

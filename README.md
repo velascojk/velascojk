@@ -20,8 +20,6 @@
 ### About me  
 I'm an aspiring frontend developer with a strong passion for building responsive and performant web applications with great user experiences.
 
-Continuing to learn and hopefully have an opportunity to break into the world of tech.  
-  
 
 <br/>  
 
@@ -35,7 +33,7 @@ Continuing to learn and hopefully have an opportunity to break into the world of
 - ❓ Talk to me about anything web development related!   
   
 
-- 🚀 Anime & Manga enthusiast.  
+- 🚀 Anime & Music enthusiast.  
   
 
 - ⚡ Fun fact: I like watching a show before going to bed.  

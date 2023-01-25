@@ -33,7 +33,7 @@ I'm an aspiring frontend developer with a strong passion for building responsive
 - ❓ Talk to me about anything web development related!   
   
 
-- 🚀 Anime & Music enthusiast.  
+- 🚀 Music enthusiast.  
   
 
 - ⚡ Fun fact: I like watching a show before going to bed.  

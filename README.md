@@ -1,4 +1,4 @@
-## Hello 👋, I'm J.K. Velasco!  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36F75A&width=435&lines=Hi%2C+I'm+J.K.!;Welcome+to+my+profile!+%3AD)](https://git.io/typing-svg)
   
 
 <a href="https://github.com/velascojk" target="_blank">

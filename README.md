@@ -3,8 +3,11 @@
 # ABOUT ME:
 🌱 I’m currently studying for my Network+!<br>❓ Talk to me about anything IT or web development related.<br>🚀 I like learning Front-End development on my free time  <br>⚡ Fun fact: I like watching a show before going to bed.  
 
+# CERTIFICATIONS:
+🖨️ CompTIA A+
+
 # PLANNED CERTIFICATIONS:
-CompTIA Network+<br> CompTIA Security+<br> Microsoft Certified: Azure Fundamentals (AZ-900)<br> Splunk Core Certified User 
+📶 CompTIA Network+<br> 🔒 CompTIA Security+<br> ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)<br> > Splunk Core Certified User 
 
 # CONTACT ME:
 Email: velascojankevin@gmail.com

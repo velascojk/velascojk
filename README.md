@@ -4,7 +4,7 @@
 🌱 I’m currently studying for my Network+!<br>❓ Talk to me about anything IT or web development related.<br>🚀 Music enthusiast.  <br>⚡ Fun fact: I like watching a show before going to bed.  
 
 # CONTACT ME:
-Email: jkvelasco2018@gmail.com
+Email: velascojankevin@gmail.com
 
 
 

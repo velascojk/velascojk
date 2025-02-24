@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36F75A&width=435&lines=Hi%2C+I'm+J.K.!;Welcome+to+my+profile!+%3AD)](https://git.io/typing-svg)
   
 # ABOUT ME:
-👨‍🎓 I'm a motivated IT student with a strong focus on cybersecurity and networking.<br>🚀 Aspiring Analyst.<br>🌱 I’m currently studying for my Network+!<br>❓ Talk to me about anything IT or web development related.</br> 🧑‍💻 I like learning front-end development or playing video games on my free time.</br> ⚡ Fun fact: I like watching a show before going to bed.</br> 🏀 Fun fact #2: I love playing basketball and watching the NBA! (Favorite team: Washington Wizards... even tho we suck 😭)
+👨‍💻 **Tech Enthusiast:** Into cybersecurity, networking, and all things IT.<br>🚀 **Career Goals:** Aspiring IT Analyst with a drive to grow in the tech industry.<br>📚 **Current Focus:** Studying for my Network+ certification to strengthen my skills.</br>**💡 Let’s Connect:** I enjoy discussing anything IT or web development-related.</br> 🎮 **Hobbies:** Love messing around with front-end projects or gaming when I’ve got free time.</br> 📺 **Fun Fact:** I always wind down with a good show before bed.</br> 🏀 **Another Fun Fact:** Big basketball fan! I love playing and watching the NBA (Go Wizards… even if it's a tough ride 😅).
 
 # CERTIFICATIONS:
-🖨️ CompTIA A+ 
+**🖨️ CompTIA A+**
 
 # PLANNED CERTIFICATIONS:
-🖧 CompTIA Network+ (In-Progress)<br> 🛡️ CompTIA Security+<br> ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)<br> 🔍 Splunk Core Certified User 
+**🌐 CompTIA Network+** (*In-Progress*)<br> **🛡️ CompTIA Security+**<br> **☁️ Microsoft Certified: Azure Fundamentals (AZ-900)**<br>**🔍 Splunk Core Certified User**
 
 # CONTACT ME:
-Email: velascojankevin@gmail.com
+**Email:** velascojankevin@gmail.com
 
 
 

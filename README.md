@@ -7,7 +7,7 @@
 **🖨️ CompTIA A+**
 
 # PLANNED CERTIFICATIONS:
-**🌐 CompTIA Network+** (*In-Progress*)<br> **🛡️ CompTIA Security+**<br> **☁️ Microsoft Certified: Azure Fundamentals (AZ-900)**<br>**🔍 Splunk Core Certified User**
+**🌐 CompTIA Network+** → *In-Progress*<br> **🛡️ CompTIA Security+**<br> **☁️ Microsoft Certified: Azure Fundamentals (AZ-900)**<br>**🔍 Splunk Core Certified User**
 
 # CONTACT ME:
 **Email:** velascojankevin@gmail.com

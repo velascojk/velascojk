@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36F75A&width=435&lines=Hi%2C+I'm+J.K.!;Welcome+to+my+profile!+%3AD)](https://git.io/typing-svg)
   
 # ABOUT ME:
-👨‍💻 **Tech Enthusiast:** Into networking, cybersecurity, and all things IT.<br>
 🚀 **Career Goals:** Aspiring Cloud Engineer!<br>
+👨‍💻 **Tech Enthusiast:** Into networking, cybersecurity, and all things IT.<br>
 📚 **Current Focus:** Studying for my **Security+** certification to strengthen my skills.</br>
 💡 **Let’s Connect:** I enjoy discussing anything IT or web development-related.</br> 
 🎮 **Hobbies:** Love messing around with front-end projects or gaming whenever I get free time.</br> 

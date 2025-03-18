@@ -3,6 +3,7 @@
 # ABOUT ME:
 🚀 **Career Goals:** Aspiring Cloud Engineer!<br>
 📚 **Current Focus:** Studying for my **Security+** certification to strengthen my skills.</br>
+📚 **Secondary Focus:** Learning Python & Linux fundamentals.</br>
 👨‍💻 **Tech Enthusiast:** Into networking, cybersecurity, cloud computing, and all things IT.<br>
 💡 **Let’s Connect:** I enjoy discussing anything IT or web development-related.</br> 
 🎮 **Hobbies:** Love messing around with front-end projects or gaming whenever I get free time.</br> 

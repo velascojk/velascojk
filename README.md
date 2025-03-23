@@ -11,7 +11,7 @@
 📺 **Fun Fact:** I always wind down with a good show before bed.</br> 
 🏀 **Another Fun Fact:** Big basketball fan! I love playing and watching (Go Wizards…😅).
 
-# PLANNED CERTIFICATIONS:
+# PROJECTS:
 **(3/17/2025): Will update soon!**
 
 # CERTIFICATIONS:

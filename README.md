@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36F75A&width=435&lines=Hi%2C+I'm+J.K.!;Welcome+to+my+profile!+%3AD)](https://git.io/typing-svg)
+
+**CURRENT:** Studying for **CompTIA Security+** certification to strengthen my skills.</br>
+**SECONDARY FOCUS:** Learning Python & Linux fundamentals.</br>
   
 # ABOUT ME:
-📚 **Current Focus:** Studying for my **Security+** certification to strengthen my skills.</br>
-🔧 **Secondary Focus:** Learning Python & Linux fundamentals.</br>
-<br>
 🚀 **Career Goals:** Aspiring Cloud Engineer!<br>
 👨‍💻 **Tech Enthusiast:** Into networking, cybersecurity, cloud computing, and all things IT.<br>
 💡 **Let’s Connect:** I enjoy discussing anything IT or web development-related.</br> 
@@ -18,8 +18,8 @@
 **🖨️ CompTIA A+** <br>
 **🌐 CompTIA Network+**
 
-# PLANNED CERTIFICATIONS:
-**🛡️ CompTIA Security+** **→** *In-Progress*<br>
+# CERTIFICATION ROADMAP:
+**🛡️ CompTIA Security+** **→** <span style="color: blue;">IN-PROGRESS</span> <br>
 **☁️ AWS Certified Cloud Practitioner**<br> 
 **☁️ AWS Certified Solutions Architect - Associate**<br>
 **🔍 Splunk Core Certified User**

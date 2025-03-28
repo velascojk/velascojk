@@ -18,11 +18,13 @@
 **🖨️ CompTIA A+** <br>
 **🌐 CompTIA Network+**
 
-# CERTIFICATION ROADMAP:
+# PLANNED CERTIFICATIONS:
 **🛡️ CompTIA Security+** **→** <span style="color: blue;">IN-PROGRESS</span> <br>
 **☁️ AWS Certified Cloud Practitioner**<br> 
 **☁️ AWS Certified Solutions Architect - Associate**<br>
-**🔍 Splunk Core Certified User**
+**🔍 Splunk Core Certified User**<br>
+**🐧 Linux Professional Institute Linux Essentials**<br>
+**🐍 PCEP™ – Certified Entry-Level Python Programmer**
 
 # CONTACT ME:
 **Email:** velascojankevin@gmail.com

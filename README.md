@@ -16,10 +16,10 @@
 
 # CERTIFICATIONS:
 **🖨️ CompTIA A+** <br>
-**🌐 CompTIA Network+**
+**🌐 CompTIA Network+** <br>
+**🛡️ CompTIA Security+**
 
 # PLANNED CERTIFICATIONS:
-**🛡️ CompTIA Security+** **→** <span style="color: blue;">IN-PROGRESS</span> <br>
 **☁️ AWS Certified Cloud Practitioner**<br> 
 **☁️ AWS Certified Solutions Architect - Associate**<br>
 **🔍 Splunk Core Certified User**<br>

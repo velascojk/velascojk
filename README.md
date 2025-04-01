@@ -4,7 +4,7 @@
 **SECONDARY FOCUS:** Learning Linux fundamentals. </br>
   
 # ABOUT ME:
-🚀 **Career Goals:** Aspiring Cloud Engineer!<br>
+🚀 **Career Goals:** Aspiring Cloud Security Engineer!<br>
 👨‍💻 **Tech Enthusiast:** Into networking, cybersecurity, cloud computing, and all things IT.<br>
 💡 **Let’s Connect:** I enjoy discussing anything IT or web development-related.</br> 
 🎮 **Hobbies:** Love messing around with front-end projects or gaming whenever I get free time.</br> 

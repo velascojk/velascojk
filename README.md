@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36F75A&width=435&lines=Hi%2C+I'm+J.K.!;Welcome+to+my+profile!+%3AD)](https://git.io/typing-svg)
 
 **CURRENT FOCUS:** Studying for **AWS Certified Cloud Practitioner**! </br>
-**SECONDARY FOCUS:** Learning Linux fundamentals. </br>
   
 # ABOUT ME:
 🚀 **Career Goals:** Aspiring Cloud Security Engineer!<br>
